@@ -2,3 +2,7 @@
 *.pdf
 *.xls
 *.xlsx
+venv
+venv/
+.venv
+Covid Vaccine hesitancy.csv
